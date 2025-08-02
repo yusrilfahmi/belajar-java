@@ -16,6 +16,7 @@ public class TipeDataArray {
     {"Joko"}
   };
 
+  
   System.out.println(absensi[0][0]);
   }
 
